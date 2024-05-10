@@ -1,6 +1,6 @@
 ### EX6 Information Retrieval Using Vector Space Model in Python
 
-### DATE: 26/03/2024
+### DATE: 16.03.2024
 
 ### AIM: 
 To implement Information Retrieval Using Vector Space Model in Python.
@@ -19,7 +19,8 @@ sklearn to demonstrate Information Retrieval using the Vector Space Model.
 5. Execute a sample query and display the search results along with similarity scores.
 
 ### Program:
-
+NAME : YUGENDARAN G
+REG NO : 212221220063
 ```python
 import nltk
 nltk.download('punkt')
